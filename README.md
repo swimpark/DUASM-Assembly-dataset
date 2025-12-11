@@ -47,7 +47,7 @@ DUASM-Assembly-dataset/
 │   │   ├── CAE_test_extracted_embeddings.csv
 │   │   └── DUASM/
 │   │       └── trained_model/
-│   │           ├── GAE_model_epoch_300.pth        (로컬 학습 체크포인트, 용량 때문에 GitHub에는 미포함 가능)
+│   │           ├── GAE_model_epoch_300.pth        (Not included)
 │   │           ├── train_assembly_edges.csv
 │   │           ├── test_assembly_edges.csv
 │   │           ├── train_assembly_metrics.csv
@@ -57,7 +57,7 @@ DUASM-Assembly-dataset/
 │   │   ├── CAE_test_extracted_embeddings.csv
 │   │   └── DUASM/
 │   │       └── trained_model/
-│   │           ├── GAE_model_epoch_600.pth        (로컬 학습 체크포인트, 용량 때문에 GitHub에는 미포함 가능)
+│   │           ├── GAE_model_epoch_600.pth        (Not included)
 │   │           ├── test_assembly_edges.csv
 │   │           ├── test_assembly_metrics_origin.csv
 │   │           ├── test_assembly_metrics_cost_time.csv
@@ -82,11 +82,10 @@ DUASM-Assembly-dataset/
 │       ├── test_dataset.csv
 │       ├── train_assembly_edges.csv
 │       └── test_assembly_edges.csv
-│       (encoder_700.pth 등 100MB 초과 모델 파일은 GitHub에는 미포함)
+│       
 │
 ├── Validation/
-│   ├── PCA_visualization.py
-│   └── Example_Outputs/        (필요 시 사용자가 추가 스크린샷이나 결과 저장)
+│   └── PCA_visualization.py
 │
 ├── README.md
 └── requirements.txt
