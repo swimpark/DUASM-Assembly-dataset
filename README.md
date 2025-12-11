@@ -158,5 +158,7 @@ And the dataset DOI from SMARTech (see archive page).
 
 For pretrained models or academic collaboration:
 **Suyoung Park**
+
 Georgia Institute of Technology
+
 [spark3026@gatech.edu](mailto:spark3026@gatech.edu)
