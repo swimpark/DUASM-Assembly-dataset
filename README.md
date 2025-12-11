@@ -1,4 +1,4 @@
-# 📦 DUASM Assembly Dataset and Evaluation Scripts
+# 📦 DU-ASM
 
 Deep Unsupervised Assembly Supplier Matching (DUASM)
 
