@@ -1,4 +1,4 @@
-# 📦 DU-ASM
+# DU-ASM
 
 Deep Unsupervised Assembly Supplier Matching (DUASM)
 
