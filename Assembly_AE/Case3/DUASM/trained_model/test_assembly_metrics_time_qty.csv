@@ -1,0 +1,148 @@
+Assembly_ID,Sub_parts,Restrictive_Tolerance,Assembly_Time,Assembly_Cost,Quantity,Supplier
+Caster_10_2,"Caster_10_Bolt__2.binvox, Caster_10_Fork__2.binvox, Caster_10_Nut__2.binvox, Caster_10_TopPlate__2.binvox, Caster_10_WheelRubber__2.binvox, Caster_10_Wheel__2.binvox",24.76,48.37,0,144,1
+Caster_10_6,"Caster_10_Bolt__6.binvox, Caster_10_Fork__6.binvox, Caster_10_Nut__6.binvox, Caster_10_TopPlate__6.binvox, Caster_10_WheelRubber__6.binvox, Caster_10_Wheel__6.binvox",25,55.43,0,106,1
+Caster_10_9,"Caster_10_Bolt__9.binvox, Caster_10_Fork__9.binvox, Caster_10_Nut__9.binvox, Caster_10_TopPlate__9.binvox, Caster_10_WheelRubber__9.binvox, Caster_10_Wheel__9.binvox",25.13,52.35,0,118,1
+Caster_1_2,"Caster_1_Bolt__2.binvox, Caster_1_Fork__2.binvox, Caster_1_Nut__2.binvox, Caster_1_Wheel__2.binvox",25.13,31.24,0,133,1
+Caster_1_6,"Caster_1_Bolt__6.binvox, Caster_1_Fork__6.binvox, Caster_1_Nut__6.binvox, Caster_1_Wheel__6.binvox",23.84,30.11,0,111,1
+Caster_1_9,"Caster_1_Bolt__9.binvox, Caster_1_Fork__9.binvox, Caster_1_Nut__9.binvox, Caster_1_Wheel__9.binvox",25.01,33.45,0,95,1
+Caster_2_2,"Caster_2_Bolt__2.binvox, Caster_2_Fork__2.binvox, Caster_2_Nut__2.binvox, Caster_2_Wheel__2.binvox",24.47,31.39,0,129,1
+Caster_2_6,"Caster_2_Bolt__6.binvox, Caster_2_Fork__6.binvox, Caster_2_Nut__6.binvox, Caster_2_Wheel__6.binvox",25.18,34.9,0,87,1
+Caster_2_9,"Caster_2_Bolt__9.binvox, Caster_2_Fork__9.binvox, Caster_2_Nut__9.binvox, Caster_2_Wheel__9.binvox",24.27,35.08,0,110,1
+Caster_3_2,"Caster_3_Bolt__2.binvox, Caster_3_Fork__2.binvox, Caster_3_Nut__2.binvox, Caster_3_Wheel__2.binvox",24.01,35.3,0,124,1
+Caster_3_6,"Caster_3_Bolt__6.binvox, Caster_3_Fork__6.binvox, Caster_3_Nut__6.binvox, Caster_3_Wheel__6.binvox",23.98,32.93,0,106,1
+Caster_3_9,"Caster_3_Bolt__9.binvox, Caster_3_Fork__9.binvox, Caster_3_Nut__9.binvox, Caster_3_Wheel__9.binvox",25.29,32.1,0,106,1
+Caster_4_2,"Caster_4_Bolt__2.binvox, Caster_4_Fork__2.binvox, Caster_4_Nut__2.binvox, Caster_4_WheelRubber__2.binvox, Caster_4_Wheel__2.binvox",31.76,45.31,0,79,1
+Caster_4_6,"Caster_4_Bolt__6.binvox, Caster_4_Fork__6.binvox, Caster_4_Nut__6.binvox, Caster_4_WheelRubber__6.binvox, Caster_4_Wheel__6.binvox",30.44,38.57,0,67,1
+Caster_4_9,"Caster_4_Bolt__9.binvox, Caster_4_Fork__9.binvox, Caster_4_Nut__9.binvox, Caster_4_WheelRubber__9.binvox, Caster_4_Wheel__9.binvox",30.25,40.8,0,72,1
+Caster_5_2,"Caster_5_Bolt__2.binvox, Caster_5_Fork__2.binvox, Caster_5_Nut__2.binvox, Caster_5_Wheel__2.binvox",24.73,31.93,0,74,1
+Caster_5_6,"Caster_5_Bolt__6.binvox, Caster_5_Fork__6.binvox, Caster_5_Nut__6.binvox, Caster_5_Wheel__6.binvox",24.15,31.35,0,110,1
+Caster_5_9,"Caster_5_Bolt__9.binvox, Caster_5_Fork__9.binvox, Caster_5_Nut__9.binvox, Caster_5_Wheel__9.binvox",24.29,31.23,0,96,1
+Caster_6_2,"Caster_6_Bolt__2.binvox, Caster_6_Fork__2.binvox, Caster_6_Nut__2.binvox, Caster_6_TopPlate__2.binvox, Caster_6_Wheel__2.binvox",25.02,44.82,0,112,1
+Caster_6_6,"Caster_6_Bolt__6.binvox, Caster_6_Fork__6.binvox, Caster_6_Nut__6.binvox, Caster_6_TopPlate__6.binvox, Caster_6_Wheel__6.binvox",25.27,45.98,0,100,1
+Caster_6_9,"Caster_6_Bolt__9.binvox, Caster_6_Fork__9.binvox, Caster_6_Nut__9.binvox, Caster_6_TopPlate__9.binvox, Caster_6_Wheel__9.binvox",23.75,43.2,0,71,1
+Caster_7_2,"Caster_7_Bolt__2.binvox, Caster_7_Fork__2.binvox, Caster_7_Nut__2.binvox, Caster_7_TopPlate__2.binvox, Caster_7_Wheel__2.binvox",23.77,47.18,0,86,1
+Caster_7_6,"Caster_7_Bolt__6.binvox, Caster_7_Fork__6.binvox, Caster_7_Nut__6.binvox, Caster_7_TopPlate__6.binvox, Caster_7_Wheel__6.binvox",23.86,48.19,0,124,1
+Caster_7_9,"Caster_7_Bolt__9.binvox, Caster_7_Fork__9.binvox, Caster_7_Nut__9.binvox, Caster_7_TopPlate__9.binvox, Caster_7_Wheel__9.binvox",24.2,42.56,0,117,1
+Caster_8_2,"Caster_8_Bolt__2.binvox, Caster_8_Fork__2.binvox, Caster_8_Nut__2.binvox, Caster_8_TopPlate__2.binvox, Caster_8_Wheel__2.binvox",24.45,47.09,0,133,1
+Caster_8_6,"Caster_8_Bolt__6.binvox, Caster_8_Fork__6.binvox, Caster_8_Nut__6.binvox, Caster_8_TopPlate__6.binvox, Caster_8_Wheel__6.binvox",24.48,46.46,0,124,1
+Caster_8_9,"Caster_8_Bolt__9.binvox, Caster_8_Fork__9.binvox, Caster_8_Nut__9.binvox, Caster_8_TopPlate__9.binvox, Caster_8_Wheel__9.binvox",24.89,43.89,0,103,1
+Caster_9_2,"Caster_9_Bolt__2.binvox, Caster_9_Fork__2.binvox, Caster_9_Nut__2.binvox, Caster_9_TopPlate__2.binvox, Caster_9_Wheel__2.binvox",23.81,42.52,0,103,1
+Caster_9_6,"Caster_9_Bolt__6.binvox, Caster_9_Fork__6.binvox, Caster_9_Nut__6.binvox, Caster_9_TopPlate__6.binvox, Caster_9_Wheel__6.binvox",25.09,45.23,0,95,1
+Caster_9_9,"Caster_9_Bolt__9.binvox, Caster_9_Fork__9.binvox, Caster_9_Nut__9.binvox, Caster_9_TopPlate__9.binvox, Caster_9_Wheel__9.binvox",23.66,41.72,0,127,1
+Clamp_1_1,"Clamp_1_Frame__1.binvox, Clamp_1_Handle__1.binvox, Clamp_1_Pad__1.binvox, Clamp_1_PinScrew__1.binvox",20.77,33.95,0,74,1
+Clamp_1_10,"Clamp_1_Frame__10.binvox, Clamp_1_Handle__10.binvox, Clamp_1_Pad__10.binvox, Clamp_1_PinScrew__10.binvox",20.12,32.84,0,60,1
+Clamp_1_6,"Clamp_1_Frame__6.binvox, Clamp_1_Handle__6.binvox, Clamp_1_Pad__6.binvox, Clamp_1_PinScrew__6.binvox",20.74,32.12,0,119,1
+Clamp_1_8,"Clamp_1_Frame__8.binvox, Clamp_1_Handle__8.binvox, Clamp_1_Pad__8.binvox, Clamp_1_PinScrew__8.binvox",19.39,31.72,0,85,1
+Clamp_2_1,"Clamp_2_Frame__1.binvox, Clamp_2_Handle__1.binvox, Clamp_2_Pad__1.binvox, Clamp_2_PinScrew__1.binvox",30.94,37.42,0,130,1
+Clamp_2_10,"Clamp_2_Frame__10.binvox, Clamp_2_Handle__10.binvox, Clamp_2_Pad__10.binvox, Clamp_2_PinScrew__10.binvox",30.11,35.27,0,77,1
+Clamp_2_6,"Clamp_2_Frame__6.binvox, Clamp_2_Handle__6.binvox, Clamp_2_Pad__6.binvox, Clamp_2_PinScrew__6.binvox",30.51,36.03,0,86,1
+Clamp_2_8,"Clamp_2_Frame__8.binvox, Clamp_2_Handle__8.binvox, Clamp_2_Pad__8.binvox, Clamp_2_PinScrew__8.binvox",31.29,32.79,0,104,1
+Clamp_3_1,"Clamp_3_Frame__1.binvox, Clamp_3_Handle__1.binvox, Clamp_3_Pad__1.binvox, Clamp_3_PinScrew__1.binvox",25.17,36.07,0,62,1
+Clamp_3_6,"Clamp_3_Frame__6.binvox, Clamp_3_Handle__6.binvox, Clamp_3_Pad__6.binvox, Clamp_3_PinScrew__6.binvox",25.09,35.94,0,102,1
+Clamp_3_8,"Clamp_3_Frame__8.binvox, Clamp_3_Handle__8.binvox, Clamp_3_Pad__8.binvox, Clamp_3_PinScrew__8.binvox",24.85,32.3,0,96,1
+Clamp_4_1,"Clamp_4_Frame__1.binvox, Clamp_4_PinScrew__1.binvox",23.93,18.25,0,114,1
+Clamp_4_6,"Clamp_4_Frame__6.binvox, Clamp_4_PinScrew__6.binvox",24.02,17.59,0,107,1
+Clamp_4_8,"Clamp_4_Frame__8.binvox, Clamp_4_PinScrew__8.binvox",24.83,16.53,0,81,1
+Clamp_5_1,"Clamp_5_Frame__1.binvox, Clamp_5_Handle__1.binvox, Clamp_5_Pad__1.binvox, Clamp_5_PinScrew__1.binvox",24.07,36.17,0,88,1
+Clamp_5_10,"Clamp_5_Frame__10.binvox, Clamp_5_Handle__10.binvox, Clamp_5_Pad__10.binvox, Clamp_5_PinScrew__10.binvox",23.85,37.45,0,103,1
+Clamp_5_6,"Clamp_5_Frame__6.binvox, Clamp_5_Handle__6.binvox, Clamp_5_Pad__6.binvox, Clamp_5_PinScrew__6.binvox",25.11,35.44,0,143,1
+Clamp_5_8,"Clamp_5_Frame__8.binvox, Clamp_5_Handle__8.binvox, Clamp_5_Pad__8.binvox, Clamp_5_PinScrew__8.binvox",23.88,36.35,0,77,1
+Clamp_9_1,"Clamp_9_Frame__1.binvox, Clamp_9_Handle__1.binvox, Clamp_9_Pad__1.binvox, Clamp_9_PinScrew__1.binvox",39.01,35.22,0,105,1
+Caster_10_2,"Caster_10_Bolt__2.binvox, Caster_10_Fork__2.binvox, Caster_10_Nut__2.binvox, Caster_10_TopPlate__2.binvox, Caster_10_WheelRubber__2.binvox, Caster_10_Wheel__2.binvox",23.13,23.84,0,542,2
+Caster_10_6,"Caster_10_Bolt__6.binvox, Caster_10_Fork__6.binvox, Caster_10_Nut__6.binvox, Caster_10_TopPlate__6.binvox, Caster_10_WheelRubber__6.binvox, Caster_10_Wheel__6.binvox",27,25.66,0,509,2
+Caster_10_9,"Caster_10_Bolt__9.binvox, Caster_10_Fork__9.binvox, Caster_10_Nut__9.binvox, Caster_10_TopPlate__9.binvox, Caster_10_WheelRubber__9.binvox, Caster_10_Wheel__9.binvox",25.26,23.01,0,530,2
+Caster_1_2,"Caster_1_Bolt__2.binvox, Caster_1_Fork__2.binvox, Caster_1_Nut__2.binvox, Caster_1_Wheel__2.binvox",26.42,16.37,0,474,2
+Caster_1_6,"Caster_1_Bolt__6.binvox, Caster_1_Fork__6.binvox, Caster_1_Nut__6.binvox, Caster_1_Wheel__6.binvox",24.02,15.5,0,530,2
+Caster_1_9,"Caster_1_Bolt__9.binvox, Caster_1_Fork__9.binvox, Caster_1_Nut__9.binvox, Caster_1_Wheel__9.binvox",23.62,17.62,0,475,2
+Caster_2_2,"Caster_2_Bolt__2.binvox, Caster_2_Fork__2.binvox, Caster_2_Nut__2.binvox, Caster_2_Wheel__2.binvox",22.79,15.77,0,499,2
+Caster_2_6,"Caster_2_Bolt__6.binvox, Caster_2_Fork__6.binvox, Caster_2_Nut__6.binvox, Caster_2_Wheel__6.binvox",25.16,18.38,0,455,2
+Caster_2_9,"Caster_2_Bolt__9.binvox, Caster_2_Fork__9.binvox, Caster_2_Nut__9.binvox, Caster_2_Wheel__9.binvox",23.24,17.63,0,517,2
+Caster_3_2,"Caster_3_Bolt__2.binvox, Caster_3_Fork__2.binvox, Caster_3_Nut__2.binvox, Caster_3_Wheel__2.binvox",23.24,15.93,0,495,2
+Caster_3_6,"Caster_3_Bolt__6.binvox, Caster_3_Fork__6.binvox, Caster_3_Nut__6.binvox, Caster_3_Wheel__6.binvox",21.95,17.09,0,531,2
+Caster_3_9,"Caster_3_Bolt__9.binvox, Caster_3_Fork__9.binvox, Caster_3_Nut__9.binvox, Caster_3_Wheel__9.binvox",26.96,16.01,0,550,2
+Caster_4_2,"Caster_4_Bolt__2.binvox, Caster_4_Fork__2.binvox, Caster_4_Nut__2.binvox, Caster_4_WheelRubber__2.binvox, Caster_4_Wheel__2.binvox",31.53,20.53,0,532,2
+Caster_4_6,"Caster_4_Bolt__6.binvox, Caster_4_Fork__6.binvox, Caster_4_Nut__6.binvox, Caster_4_WheelRubber__6.binvox, Caster_4_Wheel__6.binvox",33.03,22.44,0,511,2
+Caster_4_9,"Caster_4_Bolt__9.binvox, Caster_4_Fork__9.binvox, Caster_4_Nut__9.binvox, Caster_4_WheelRubber__9.binvox, Caster_4_Wheel__9.binvox",31.58,20.22,0,504,2
+Caster_5_2,"Caster_5_Bolt__2.binvox, Caster_5_Fork__2.binvox, Caster_5_Nut__2.binvox, Caster_5_Wheel__2.binvox",22.34,16.63,0,519,2
+Caster_5_6,"Caster_5_Bolt__6.binvox, Caster_5_Fork__6.binvox, Caster_5_Nut__6.binvox, Caster_5_Wheel__6.binvox",24.38,17.11,0,508,2
+Caster_5_9,"Caster_5_Bolt__9.binvox, Caster_5_Fork__9.binvox, Caster_5_Nut__9.binvox, Caster_5_Wheel__9.binvox",24.21,15.99,0,503,2
+Caster_6_2,"Caster_6_Bolt__2.binvox, Caster_6_Fork__2.binvox, Caster_6_Nut__2.binvox, Caster_6_TopPlate__2.binvox, Caster_6_Wheel__2.binvox",22.6,22.73,0,516,2
+Caster_6_6,"Caster_6_Bolt__6.binvox, Caster_6_Fork__6.binvox, Caster_6_Nut__6.binvox, Caster_6_TopPlate__6.binvox, Caster_6_Wheel__6.binvox",23.96,24.71,0,511,2
+Caster_6_9,"Caster_6_Bolt__9.binvox, Caster_6_Fork__9.binvox, Caster_6_Nut__9.binvox, Caster_6_TopPlate__9.binvox, Caster_6_Wheel__9.binvox",22.21,23.83,0,499,2
+Caster_7_2,"Caster_7_Bolt__2.binvox, Caster_7_Fork__2.binvox, Caster_7_Nut__2.binvox, Caster_7_TopPlate__2.binvox, Caster_7_Wheel__2.binvox",22.65,22.93,0,485,2
+Caster_7_6,"Caster_7_Bolt__6.binvox, Caster_7_Fork__6.binvox, Caster_7_Nut__6.binvox, Caster_7_TopPlate__6.binvox, Caster_7_Wheel__6.binvox",23.99,22.19,0,532,2
+Caster_7_9,"Caster_7_Bolt__9.binvox, Caster_7_Fork__9.binvox, Caster_7_Nut__9.binvox, Caster_7_TopPlate__9.binvox, Caster_7_Wheel__9.binvox",22.31,21.57,0,525,2
+Caster_8_2,"Caster_8_Bolt__2.binvox, Caster_8_Fork__2.binvox, Caster_8_Nut__2.binvox, Caster_8_TopPlate__2.binvox, Caster_8_Wheel__2.binvox",22.47,21.93,0,511,2
+Caster_8_6,"Caster_8_Bolt__6.binvox, Caster_8_Fork__6.binvox, Caster_8_Nut__6.binvox, Caster_8_TopPlate__6.binvox, Caster_8_Wheel__6.binvox",25.53,20.51,0,498,2
+Caster_8_9,"Caster_8_Bolt__9.binvox, Caster_8_Fork__9.binvox, Caster_8_Nut__9.binvox, Caster_8_TopPlate__9.binvox, Caster_8_Wheel__9.binvox",26.41,20.74,0,466,2
+Caster_9_2,"Caster_9_Bolt__2.binvox, Caster_9_Fork__2.binvox, Caster_9_Nut__2.binvox, Caster_9_TopPlate__2.binvox, Caster_9_Wheel__2.binvox",24.93,24.91,0,533,2
+Caster_9_6,"Caster_9_Bolt__6.binvox, Caster_9_Fork__6.binvox, Caster_9_Nut__6.binvox, Caster_9_TopPlate__6.binvox, Caster_9_Wheel__6.binvox",22.95,22.04,0,519,2
+Caster_9_9,"Caster_9_Bolt__9.binvox, Caster_9_Fork__9.binvox, Caster_9_Nut__9.binvox, Caster_9_TopPlate__9.binvox, Caster_9_Wheel__9.binvox",22.27,24.64,0,441,2
+Clamp_1_1,"Clamp_1_Frame__1.binvox, Clamp_1_Handle__1.binvox, Clamp_1_Pad__1.binvox, Clamp_1_PinScrew__1.binvox",20.24,16.19,0,509,2
+Clamp_1_10,"Clamp_1_Frame__10.binvox, Clamp_1_Handle__10.binvox, Clamp_1_Pad__10.binvox, Clamp_1_PinScrew__10.binvox",18.36,18,0,482,2
+Clamp_1_6,"Clamp_1_Frame__6.binvox, Clamp_1_Handle__6.binvox, Clamp_1_Pad__6.binvox, Clamp_1_PinScrew__6.binvox",20.22,17.7,0,497,2
+Clamp_1_8,"Clamp_1_Frame__8.binvox, Clamp_1_Handle__8.binvox, Clamp_1_Pad__8.binvox, Clamp_1_PinScrew__8.binvox",20.33,16.96,0,497,2
+Clamp_2_1,"Clamp_2_Frame__1.binvox, Clamp_2_Handle__1.binvox, Clamp_2_Pad__1.binvox, Clamp_2_PinScrew__1.binvox",29.39,17.71,0,560,2
+Clamp_2_10,"Clamp_2_Frame__10.binvox, Clamp_2_Handle__10.binvox, Clamp_2_Pad__10.binvox, Clamp_2_PinScrew__10.binvox",31.34,16.01,0,548,2
+Clamp_2_6,"Clamp_2_Frame__6.binvox, Clamp_2_Handle__6.binvox, Clamp_2_Pad__6.binvox, Clamp_2_PinScrew__6.binvox",29.53,16.07,0,450,2
+Clamp_2_8,"Clamp_2_Frame__8.binvox, Clamp_2_Handle__8.binvox, Clamp_2_Pad__8.binvox, Clamp_2_PinScrew__8.binvox",33.53,17.2,0,574,2
+Clamp_3_1,"Clamp_3_Frame__1.binvox, Clamp_3_Handle__1.binvox, Clamp_3_Pad__1.binvox, Clamp_3_PinScrew__1.binvox",26.92,17.07,0,507,2
+Clamp_3_6,"Clamp_3_Frame__6.binvox, Clamp_3_Handle__6.binvox, Clamp_3_Pad__6.binvox, Clamp_3_PinScrew__6.binvox",24.83,19.04,0,488,2
+Clamp_3_8,"Clamp_3_Frame__8.binvox, Clamp_3_Handle__8.binvox, Clamp_3_Pad__8.binvox, Clamp_3_PinScrew__8.binvox",23.19,18.87,0,495,2
+Clamp_4_1,"Clamp_4_Frame__1.binvox, Clamp_4_PinScrew__1.binvox",23.17,7.8,0,493,2
+Clamp_4_6,"Clamp_4_Frame__6.binvox, Clamp_4_PinScrew__6.binvox",24.93,8.55,0,468,2
+Clamp_4_8,"Clamp_4_Frame__8.binvox, Clamp_4_PinScrew__8.binvox",27.15,8.54,0,478,2
+Clamp_5_1,"Clamp_5_Frame__1.binvox, Clamp_5_Handle__1.binvox, Clamp_5_Pad__1.binvox, Clamp_5_PinScrew__1.binvox",22.69,18.36,0,501,2
+Clamp_5_10,"Clamp_5_Frame__10.binvox, Clamp_5_Handle__10.binvox, Clamp_5_Pad__10.binvox, Clamp_5_PinScrew__10.binvox",22.25,16.91,0,558,2
+Clamp_5_6,"Clamp_5_Frame__6.binvox, Clamp_5_Handle__6.binvox, Clamp_5_Pad__6.binvox, Clamp_5_PinScrew__6.binvox",24.15,18.4,0,545,2
+Clamp_5_8,"Clamp_5_Frame__8.binvox, Clamp_5_Handle__8.binvox, Clamp_5_Pad__8.binvox, Clamp_5_PinScrew__8.binvox",25.68,17.47,0,534,2
+Clamp_9_1,"Clamp_9_Frame__1.binvox, Clamp_9_Handle__1.binvox, Clamp_9_Pad__1.binvox, Clamp_9_PinScrew__1.binvox",38.29,18.19,0,520,2
+Caster_10_2,"Caster_10_Bolt__2.binvox, Caster_10_Fork__2.binvox, Caster_10_Nut__2.binvox, Caster_10_TopPlate__2.binvox, Caster_10_WheelRubber__2.binvox, Caster_10_Wheel__2.binvox",24.53,10.46,0,1091,3
+Caster_10_6,"Caster_10_Bolt__6.binvox, Caster_10_Fork__6.binvox, Caster_10_Nut__6.binvox, Caster_10_TopPlate__6.binvox, Caster_10_WheelRubber__6.binvox, Caster_10_Wheel__6.binvox",23.17,9.71,0,1017,3
+Caster_10_9,"Caster_10_Bolt__9.binvox, Caster_10_Fork__9.binvox, Caster_10_Nut__9.binvox, Caster_10_TopPlate__9.binvox, Caster_10_WheelRubber__9.binvox, Caster_10_Wheel__9.binvox",26.13,10.12,0,970,3
+Caster_1_2,"Caster_1_Bolt__2.binvox, Caster_1_Fork__2.binvox, Caster_1_Nut__2.binvox, Caster_1_Wheel__2.binvox",23.81,6.93,0,1002,3
+Caster_1_6,"Caster_1_Bolt__6.binvox, Caster_1_Fork__6.binvox, Caster_1_Nut__6.binvox, Caster_1_Wheel__6.binvox",23.53,6.41,0,1050,3
+Caster_1_9,"Caster_1_Bolt__9.binvox, Caster_1_Fork__9.binvox, Caster_1_Nut__9.binvox, Caster_1_Wheel__9.binvox",26.62,7.22,0,981,3
+Caster_2_2,"Caster_2_Bolt__2.binvox, Caster_2_Fork__2.binvox, Caster_2_Nut__2.binvox, Caster_2_Wheel__2.binvox",22.58,6.9,0,1007,3
+Caster_2_6,"Caster_2_Bolt__6.binvox, Caster_2_Fork__6.binvox, Caster_2_Nut__6.binvox, Caster_2_Wheel__6.binvox",26.12,7.41,0,990,3
+Caster_2_9,"Caster_2_Bolt__9.binvox, Caster_2_Fork__9.binvox, Caster_2_Nut__9.binvox, Caster_2_Wheel__9.binvox",26.45,7.17,0,1100,3
+Caster_3_2,"Caster_3_Bolt__2.binvox, Caster_3_Fork__2.binvox, Caster_3_Nut__2.binvox, Caster_3_Wheel__2.binvox",22.77,6.13,0,973,3
+Caster_3_6,"Caster_3_Bolt__6.binvox, Caster_3_Fork__6.binvox, Caster_3_Nut__6.binvox, Caster_3_Wheel__6.binvox",22.47,7.13,0,991,3
+Caster_3_9,"Caster_3_Bolt__9.binvox, Caster_3_Fork__9.binvox, Caster_3_Nut__9.binvox, Caster_3_Wheel__9.binvox",24.4,6.35,0,1028,3
+Caster_4_2,"Caster_4_Bolt__2.binvox, Caster_4_Fork__2.binvox, Caster_4_Nut__2.binvox, Caster_4_WheelRubber__2.binvox, Caster_4_Wheel__2.binvox",30.4,8.45,0,1031,3
+Caster_4_6,"Caster_4_Bolt__6.binvox, Caster_4_Fork__6.binvox, Caster_4_Nut__6.binvox, Caster_4_WheelRubber__6.binvox, Caster_4_Wheel__6.binvox",32.42,7.97,0,977,3
+Caster_4_9,"Caster_4_Bolt__9.binvox, Caster_4_Fork__9.binvox, Caster_4_Nut__9.binvox, Caster_4_WheelRubber__9.binvox, Caster_4_Wheel__9.binvox",30.85,9.27,0,977,3
+Caster_5_2,"Caster_5_Bolt__2.binvox, Caster_5_Fork__2.binvox, Caster_5_Nut__2.binvox, Caster_5_Wheel__2.binvox",27.1,6.26,0,985,3
+Caster_5_6,"Caster_5_Bolt__6.binvox, Caster_5_Fork__6.binvox, Caster_5_Nut__6.binvox, Caster_5_Wheel__6.binvox",23.33,6.25,0,950,3
+Caster_5_9,"Caster_5_Bolt__9.binvox, Caster_5_Fork__9.binvox, Caster_5_Nut__9.binvox, Caster_5_Wheel__9.binvox",25.57,6.63,0,1077,3
+Caster_6_2,"Caster_6_Bolt__2.binvox, Caster_6_Fork__2.binvox, Caster_6_Nut__2.binvox, Caster_6_TopPlate__2.binvox, Caster_6_Wheel__2.binvox",27.26,8.23,0,1037,3
+Caster_6_6,"Caster_6_Bolt__6.binvox, Caster_6_Fork__6.binvox, Caster_6_Nut__6.binvox, Caster_6_TopPlate__6.binvox, Caster_6_Wheel__6.binvox",25.03,9.47,0,992,3
+Caster_6_9,"Caster_6_Bolt__9.binvox, Caster_6_Fork__9.binvox, Caster_6_Nut__9.binvox, Caster_6_TopPlate__9.binvox, Caster_6_Wheel__9.binvox",24.52,9.56,0,975,3
+Caster_7_2,"Caster_7_Bolt__2.binvox, Caster_7_Fork__2.binvox, Caster_7_Nut__2.binvox, Caster_7_TopPlate__2.binvox, Caster_7_Wheel__2.binvox",21.89,9.4,0,1016,3
+Caster_7_6,"Caster_7_Bolt__6.binvox, Caster_7_Fork__6.binvox, Caster_7_Nut__6.binvox, Caster_7_TopPlate__6.binvox, Caster_7_Wheel__6.binvox",23.65,8.58,0,910,3
+Caster_7_9,"Caster_7_Bolt__9.binvox, Caster_7_Fork__9.binvox, Caster_7_Nut__9.binvox, Caster_7_TopPlate__9.binvox, Caster_7_Wheel__9.binvox",26.11,9.48,0,1005,3
+Caster_8_2,"Caster_8_Bolt__2.binvox, Caster_8_Fork__2.binvox, Caster_8_Nut__2.binvox, Caster_8_TopPlate__2.binvox, Caster_8_Wheel__2.binvox",26.05,8.91,0,901,3
+Caster_8_6,"Caster_8_Bolt__6.binvox, Caster_8_Fork__6.binvox, Caster_8_Nut__6.binvox, Caster_8_TopPlate__6.binvox, Caster_8_Wheel__6.binvox",26.02,9.21,0,1003,3
+Caster_8_9,"Caster_8_Bolt__9.binvox, Caster_8_Fork__9.binvox, Caster_8_Nut__9.binvox, Caster_8_TopPlate__9.binvox, Caster_8_Wheel__9.binvox",25.08,9.5,0,1015,3
+Caster_9_2,"Caster_9_Bolt__2.binvox, Caster_9_Fork__2.binvox, Caster_9_Nut__2.binvox, Caster_9_TopPlate__2.binvox, Caster_9_Wheel__2.binvox",26.11,8.9,0,1082,3
+Caster_9_6,"Caster_9_Bolt__6.binvox, Caster_9_Fork__6.binvox, Caster_9_Nut__6.binvox, Caster_9_TopPlate__6.binvox, Caster_9_Wheel__6.binvox",25.06,9.29,0,1020,3
+Caster_9_9,"Caster_9_Bolt__9.binvox, Caster_9_Fork__9.binvox, Caster_9_Nut__9.binvox, Caster_9_TopPlate__9.binvox, Caster_9_Wheel__9.binvox",22.06,8.75,0,944,3
+Clamp_1_1,"Clamp_1_Frame__1.binvox, Clamp_1_Handle__1.binvox, Clamp_1_Pad__1.binvox, Clamp_1_PinScrew__1.binvox",20.9,6.31,0,979,3
+Clamp_1_10,"Clamp_1_Frame__10.binvox, Clamp_1_Handle__10.binvox, Clamp_1_Pad__10.binvox, Clamp_1_PinScrew__10.binvox",20.81,6.96,0,946,3
+Clamp_1_6,"Clamp_1_Frame__6.binvox, Clamp_1_Handle__6.binvox, Clamp_1_Pad__6.binvox, Clamp_1_PinScrew__6.binvox",22.58,7.28,0,977,3
+Clamp_1_8,"Clamp_1_Frame__8.binvox, Clamp_1_Handle__8.binvox, Clamp_1_Pad__8.binvox, Clamp_1_PinScrew__8.binvox",21.11,7.43,0,1042,3
+Clamp_2_1,"Clamp_2_Frame__1.binvox, Clamp_2_Handle__1.binvox, Clamp_2_Pad__1.binvox, Clamp_2_PinScrew__1.binvox",30.78,7.31,0,1074,3
+Clamp_2_10,"Clamp_2_Frame__10.binvox, Clamp_2_Handle__10.binvox, Clamp_2_Pad__10.binvox, Clamp_2_PinScrew__10.binvox",28.71,7.04,0,976,3
+Clamp_2_6,"Clamp_2_Frame__6.binvox, Clamp_2_Handle__6.binvox, Clamp_2_Pad__6.binvox, Clamp_2_PinScrew__6.binvox",32.59,6.82,0,970,3
+Clamp_2_8,"Clamp_2_Frame__8.binvox, Clamp_2_Handle__8.binvox, Clamp_2_Pad__8.binvox, Clamp_2_PinScrew__8.binvox",30.59,6.5,0,1035,3
+Clamp_3_1,"Clamp_3_Frame__1.binvox, Clamp_3_Handle__1.binvox, Clamp_3_Pad__1.binvox, Clamp_3_PinScrew__1.binvox",24.52,7.49,0,1056,3
+Clamp_3_6,"Clamp_3_Frame__6.binvox, Clamp_3_Handle__6.binvox, Clamp_3_Pad__6.binvox, Clamp_3_PinScrew__6.binvox",27.53,6.43,0,1086,3
+Clamp_3_8,"Clamp_3_Frame__8.binvox, Clamp_3_Handle__8.binvox, Clamp_3_Pad__8.binvox, Clamp_3_PinScrew__8.binvox",26.52,7.64,0,913,3
+Clamp_4_1,"Clamp_4_Frame__1.binvox, Clamp_4_PinScrew__1.binvox",22.17,3.52,0,992,3
+Clamp_4_6,"Clamp_4_Frame__6.binvox, Clamp_4_PinScrew__6.binvox",23.83,3.7,0,946,3
+Clamp_4_8,"Clamp_4_Frame__8.binvox, Clamp_4_PinScrew__8.binvox",22.78,3.15,0,1030,3
+Clamp_5_1,"Clamp_5_Frame__1.binvox, Clamp_5_Handle__1.binvox, Clamp_5_Pad__1.binvox, Clamp_5_PinScrew__1.binvox",23.31,6.33,0,998,3
+Clamp_5_10,"Clamp_5_Frame__10.binvox, Clamp_5_Handle__10.binvox, Clamp_5_Pad__10.binvox, Clamp_5_PinScrew__10.binvox",21.92,6.65,0,1047,3
+Clamp_5_6,"Clamp_5_Frame__6.binvox, Clamp_5_Handle__6.binvox, Clamp_5_Pad__6.binvox, Clamp_5_PinScrew__6.binvox",23.58,6.62,0,968,3
+Clamp_5_8,"Clamp_5_Frame__8.binvox, Clamp_5_Handle__8.binvox, Clamp_5_Pad__8.binvox, Clamp_5_PinScrew__8.binvox",22.92,6.59,0,1004,3
+Clamp_9_1,"Clamp_9_Frame__1.binvox, Clamp_9_Handle__1.binvox, Clamp_9_Pad__1.binvox, Clamp_9_PinScrew__1.binvox",40.63,6.91,0,974,3
