@@ -44,54 +44,87 @@ Pretrained `.pth` checkpoint files are **not** included because GitHub restricts
 ```
 DUASM-Assembly-dataset/
 │
-├── Assembly_AE/
-│   ├── Case1/
-│   │   ├── CAE_train_extracted_embeddings.csv
-│   │   ├── CAE_test_extracted_embeddings.csv
-│   │   └── DUASM/
-│   │       └── trained_model/
-│   │           ├── GAE_model_epoch_300.pth        (Not included)
-│   │           ├── train_assembly_edges.csv
-│   │           ├── test_assembly_edges.csv
-│   │           ├── train_assembly_metrics.csv
-│   │           └── test_assembly_metrics_cost_time.csv
+├─ Assembly_AE/
+│   ├─ Case1/
+│   │   ├─ Baseline/
+│   │   │   ├─ trained_model/
+│   │   │   │   ├─ Classifier_model_epoch_300.pth
+│   │   │   ├─ Case1_Baseline_test.py
+│   │   │   ├─ Case1_Baseline_train.py
+│   │   │
+│   │   ├─ DUASM/
+│   │   │   ├─ trained_model/
+│   │   │   │   ├─ GAE_model_epoch_300.pth
+│   │   │   ├─ Case1_DUASM_test.py
+│   │   │   ├─ Case1_DUASM_train.py
+│   │   │
+│   │   ├─ CAE_train_extracted_embeddings.csv
+│   │   ├─ CAE_test_extracted_embeddings.csv
+│   │   ├─ train_assembly_edges.csv
+│   │   ├─ test_assembly_edges.csv
+│   │   ├─ train_assembly_metrics.csv
+│   │   ├─ test_assembly_metrics.csv
 │   │
-│   ├── Case2/
-│   │   ├── CAE_test_extracted_embeddings.csv
-│   │   └── DUASM/
-│   │       └── trained_model/
-│   │           ├── GAE_model_epoch_600.pth        (Not included)
-│   │           ├── test_assembly_edges.csv
-│   │           ├── test_assembly_metrics_origin.csv
-│   │           ├── test_assembly_metrics_cost_time.csv
-│   │           ├── test_assembly_metrics_cost_qty.csv
-│   │           └── test_assembly_metrics_time_qty.csv
+│   ├─ Case2/
+│   │   ├─ DUASM/
+│   │   │   ├─ trained_model/
+│   │   │   │   ├─ GAE_model_epoch_600.pth
+│   │   │   ├─ Case2_DUASM_test.py
+│   │   │   ├─ Case2_DUASM_train.py
+│   │   │
+│   │   ├─ test_assembly_edges.csv
+│   │   ├─ test_assembly_metrics_*.csv   (cost, time, qty, tol variants)
+│   │   ├─ train_assembly_edges.csv
+│   │   ├─ train_assembly_metrics.csv
+│   │   ├─ CAE_train_extracted_embeddings.csv
+│   │   ├─ CAE_test_extracted_embeddings.csv
 │   │
-│   └── Case3/
-│       └── DUASM/
-│           └── trained_model/
-│               ├── train_assembly_edges.csv
-│               ├── test_assembly_edges.csv
-│               ├── train_assembly_metrics.csv
-│               └── test_assembly_metrics.csv
+│   ├─ Case3/
+│   │   ├─ DUASM/
+│   │   │   ├─ trained_model/
+│   │   │   │   ├─ GAE_model_epoch_600.pth
+│   │   │   ├─ Case3_DUASM_train.py
+│   │   │   ├─ Case3_Ranking.py
+│   │   │
+│   │   ├─ test_assembly_edges.csv
+│   │   ├─ test_assembly_metrics_*.csv   (cost, time, qty, tol variations)
+│   │   ├─ train_assembly_edges.csv
+│   │   ├─ train_assembly_metrics.csv
+│   │   ├─ CAE_train_extracted_embeddings.csv
+│   │   ├─ CAE_test_extracted_embeddings.csv
+│   │
+│   ├─ Baseline_config.py
+│   ├─ Baseline_model.py
+│   ├─ DUASM_config.py
+│   ├─ DUASM_model.py
+│   ├─ dataset_loader.py
+│   ├─ binvox_rw.py
 │
-├── Component_AE/
-│   └── trained_model/
-│       ├── CAE_train_extracted_embeddings.csv
-│       ├── CAE_test_extracted_embeddings.csv
-│       ├── low_occupancy_files.csv
-│       ├── occupancy_stats.csv
-│       ├── train_dataset.csv
-│       ├── test_dataset.csv
-│       ├── train_assembly_edges.csv
-│       └── test_assembly_edges.csv
-│       
+├─ Component_AE/
+│   ├─ trained_model/
+│   │   ├─ encoder_700.pth
+│   │   ├─ CAE_train_extracted_embeddings.csv
+│   │   ├─ CAE_test_extracted_embeddings.csv
+│   │   ├─ train_dataset.csv
+│   │   ├─ test_dataset.csv
+│   │   ├─ train_assembly_edges.csv
+│   │   ├─ test_assembly_edges.csv
+│   │   ├─ low_occupancy_files.csv
+│   │   ├─ occupancy_stats.csv
+│   │
+│   ├─ autoencoder_model.py
+│   ├─ embedding_extractor.py
+│   ├─ dataset_loader.py
+│   ├─ train.py
+│   ├─ options.py
+│   ├─ binvox_rw.py
 │
-├── Validation/
-│   └── PCA_visualization.py
+├─ Validation/
+│   ├─ PCA_visualization.py
 │
-├── README.md
-└── requirements.txt
+├─ requirements.txt
+├─ .gitignore
+└─ README.md
 ```
 
 ---
