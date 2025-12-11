@@ -1,6 +1,6 @@
 # DU-ASM
 
-Deep Unsupervised Assembly Supplier Matching (DUASM)
+Deep Unsupervised Assembly Supplier Matching (DU-ASM)
 
 This repository provides the assembly-level embeddings, evaluation scripts, and case-specific test files used in the DUASM study.
 
