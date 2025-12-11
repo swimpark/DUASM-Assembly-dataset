@@ -12,7 +12,7 @@ The full voxel dataset and all synthetic manufacturing metrics (cost, time, tole
 This archive contains:
 
 * Raw 3D voxel files used for component-level autoencoder training
-* Assembly-level CSVs for Stage 1–3 experiments (edges, metrics, suppliers)
+* Assembly-level CSVs for Case 1–3 experiments (edges, metrics, suppliers)
 * Synthetic manufacturing attributes generated using DFA rules
 * Additional supplementary materials used in the DUASM paper
 
