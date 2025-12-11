@@ -43,35 +43,53 @@ DUASM-Assembly-dataset/
 │
 ├── Assembly_AE/
 │   ├── Case1/
-│   │   ├── CAE_test_extracted_embeddings.csv
 │   │   ├── CAE_train_extracted_embeddings.csv
+│   │   ├── CAE_test_extracted_embeddings.csv
 │   │   └── DUASM/
 │   │       └── trained_model/
-│   │           ├── GAE_model_epoch_300.pth        (excluded if >100MB)
+│   │           ├── GAE_model_epoch_300.pth        (로컬 학습 체크포인트, 용량 때문에 GitHub에는 미포함 가능)
+│   │           ├── train_assembly_edges.csv
 │   │           ├── test_assembly_edges.csv
-│   │           ├── test_assembly_metrics_cost_time.csv
-│   │           └── train_assembly_edges.csv
+│   │           ├── train_assembly_metrics.csv
+│   │           └── test_assembly_metrics_cost_time.csv
 │   │
 │   ├── Case2/
 │   │   ├── CAE_test_extracted_embeddings.csv
 │   │   └── DUASM/
 │   │       └── trained_model/
+│   │           ├── GAE_model_epoch_600.pth        (로컬 학습 체크포인트, 용량 때문에 GitHub에는 미포함 가능)
 │   │           ├── test_assembly_edges.csv
+│   │           ├── test_assembly_metrics_origin.csv
 │   │           ├── test_assembly_metrics_cost_time.csv
-│   │           └── ...
+│   │           ├── test_assembly_metrics_cost_qty.csv
+│   │           └── test_assembly_metrics_time_qty.csv
 │   │
 │   └── Case3/
 │       └── DUASM/
 │           └── trained_model/
-│               ├── test_assembly_edges.csv
 │               ├── train_assembly_edges.csv
-│               └── ...
+│               ├── test_assembly_edges.csv
+│               ├── train_assembly_metrics.csv
+│               └── test_assembly_metrics.csv
+│
+├── Component_AE/
+│   └── trained_model/
+│       ├── CAE_train_extracted_embeddings.csv
+│       ├── CAE_test_extracted_embeddings.csv
+│       ├── low_occupancy_files.csv
+│       ├── occupancy_stats.csv
+│       ├── train_dataset.csv
+│       ├── test_dataset.csv
+│       ├── train_assembly_edges.csv
+│       └── test_assembly_edges.csv
+│       (encoder_700.pth 등 100MB 초과 모델 파일은 GitHub에는 미포함)
 │
 ├── Validation/
 │   ├── PCA_visualization.py
-│   └── Example Outputs/
+│   └── Example_Outputs/        (필요 시 사용자가 추가 스크린샷이나 결과 저장)
 │
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
