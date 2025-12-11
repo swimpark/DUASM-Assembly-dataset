@@ -8,6 +8,7 @@ The full voxel dataset and all synthetic manufacturing metrics (cost, time, tole
 ### 🔗 **Dataset Archive (SMARTech)**
 
 **[https://repository.gatech.edu/entities/publication/d2cae494-2cc7-427c-bccc-8ea950491bd3](https://repository.gatech.edu/entities/publication/d2cae494-2cc7-427c-bccc-8ea950491bd3)**
+
 This archive contains:
 
 * Raw 3D voxel files used for component-level autoencoder training
