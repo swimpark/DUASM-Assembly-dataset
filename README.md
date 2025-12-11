@@ -5,8 +5,7 @@ Deep Unsupervised Assembly Supplier Matching (DUASM)
 This repository provides the assembly-level embeddings, evaluation scripts, and case-specific test files used in the DUASM study.
 The full voxel dataset and all synthetic manufacturing metrics (cost, time, tolerance, quantity) used in the Journal of Manufacturing Systems paper are publicly archived at Georgia Tech’s institutional repository:
 
-![Figure2](https://github.com/user-attachments/assets/27296a99-5686-4d4e-a9d5-7a1fddfcd4bf)# 
-<img src="/image.svg" width="500">
+![Figure2](https://github.com/user-attachments/assets/27296a99-5686-4d4e-a9d5-7a1fddfcd4bf)
 
 
 ### 🔗 **Dataset Archive (SMARTech)**
